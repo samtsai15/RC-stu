@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RC-stu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="insert">新增</string>
+	<string name="insert_success">資料新增成功</string>
+	<string name="insert_fail">資料新增失敗</string>
+	<string name="clear">清除</string>
+</resources>
